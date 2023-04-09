@@ -14,19 +14,10 @@
 
 <h3>🛠 Skills</h3>
 
-**Languages**: Python, R, SQL, NoSQL, PostgreSQL, MongoDB JavaScript(jQuery, Angualar, React), Java, C/C++
-**Frameworks**:Flask, Django, TensorFlow, PyTorch, Spark, Hadoop, Scala, Kafka, Selenium, Postman
-**Tools**: AWS(Lambda, S3, RDS), Power BI, Tableau, AirFlow, RedShift, Docker, Kubernetes, TerraForm, Ansible
-**Extras**: Pandas, NumPy, Matplotlib, D3.js, GeoPandas, Shapely, PyProj, Sci-Kit, NLTK, Restful API, OpenCV
-**Skills**: ETL, Data Warehousing, Machine Learning, A/B testing, Hypothesis Testing, Regression and Classification
-Models, Time Series Forecasting, Data Visualization, Data Management, NLP
-
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<br>**Languages**: Python, R, SQL, NoSQL, PostgreSQL, MongoDB JavaScript(jQuery, Angualar, React), Java, C/C++</br>
+<br>**Frameworks**:Flask, Django, TensorFlow, PyTorch, Spark, Hadoop, Scala, Kafka, Selenium, Postman</br>
+<br>**Tools**: AWS(Lambda, S3, RDS), Power BI, Tableau, AirFlow, RedShift, Docker, Kubernetes, TerraForm, Ansible</br>
+<br>**Extras**: Pandas, NumPy, Matplotlib, D3.js, GeoPandas, Shapely, PyProj, Sci-Kit, NLTK, Restful API, OpenCV</br>
+<br>**Skills**: ETL, Data Warehousing, Machine Learning, A/B testing, Hypothesis Testing, Regression and Classification
+Models, Time Series Forecasting, Data Visualization, Data Management, NLP</br>
 
