@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and learning to solve real life problems with them.
 - 🎓 &nbsp; Studying Computer Science, with an interest in Data 
 - 💼 &nbsp; Have worked as data science/engineering inter and research intern  
-- 🌱 &nbsp; Enthusiast in Data Science, Data Engineering and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Data Science, Machine Learning, Data Engineering and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Skills</h3>
